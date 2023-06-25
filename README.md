@@ -1,8 +1,14 @@
+<div align="center">
+    
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=newbie12034)](https://solved.ac/newbie12034)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=newbie12034)](https://solved.ac/newbie12034)
 
-## Tech Stack 🛠
+<div/>
+    <br/>
+    <br/>
+    <br/>
+<h2>## Tech Stack 🛠</h2>
 <div> 
     <br/>
     <h3>knowledge</h3>
