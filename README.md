@@ -13,6 +13,7 @@
    <br/>
    <h3>Stack</h3>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
     
   
 </div>
