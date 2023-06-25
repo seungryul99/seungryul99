@@ -1,9 +1,9 @@
-## Tech Stack 🛠
-<div>
-    [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=newbie12034)](https://solved.ac/newbie12034)
-    
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=newbie12034)](https://solved.ac/newbie12034)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=newbie12034)](https://solved.ac/newbie12034)
 
-    
+## Tech Stack 🛠
+<div> 
     <br/>
     <h3>knowledge</h3>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"/>
