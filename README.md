@@ -11,7 +11,7 @@
 <h2>## Tech Stack 🛠</h2>
 <div> 
     <br/>
-    <h3>Knowledge</h3>
+    <h3>찍먹</h3>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -23,7 +23,7 @@
     
    <br/>
    <br/>
-   <h3>Main</h3>
+   <h3>초보자</h3>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
     
