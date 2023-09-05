@@ -1,6 +1,6 @@
 <div align="center">
     
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=newbie12034)](https://solved.ac/newbie12034)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=newbie12034)](https://solved.ac/newbie12034)
 
