@@ -4,6 +4,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=newbie12034)](https://solved.ac/newbie12034)
 
+![seungryul22's github stats](https://github-readme-stats.vercel.app/api?username=seungryul22&show_icons=true&theme=tokyonight)
+
 <div/>
     <br/>
     <br/>
