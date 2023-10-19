@@ -6,6 +6,9 @@
 
 ![seungryul22's github stats](https://github-readme-stats.vercel.app/api?username=seungryul22&show_icons=true&theme=tokyonight)
 
+
+<img align="center" style="margin-top: 100px;" width="450" src="https://streak-stats.demolab.com?user=seungryul22&theme=vue&hide_border=true&date_format=%5BY.%5Dn.j&background=FFFFFF00">
+
 <div/>
     <br/>
     <br/>
